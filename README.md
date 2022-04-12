@@ -7,6 +7,9 @@ Kabar is a messaging app built fully for Android with Java language. Kabar is us
 # Specification
 
 - Latest Release: v.1.0
-- Minimum SDK Version: 16
+- Minimum SDK Version: Android SDK 16
 
 # Download
+
+This app is still in closed state, we still don't have plans to publish it on Google Play Store anytime soon. But, you can still download and install it manually by visiting the release page and select the pre-release version v1. Or you can simply click this link below. Make sure you open and install it on Android device.
+https://github.com/rainerregan/kabar/releases/tag/v1
